@@ -40,3 +40,7 @@ pip install openpyxl
 ```bash
 jupyter notebook knapsack_solver.ipynb
 ```
+3. Sonuçlar otomatik olarak `knapsack_summary.xlsx` dosyasına yazılır.
+
+📌 Bu proje bir ders ödevi kapsamında gerçekleştirilmiştir.
+
