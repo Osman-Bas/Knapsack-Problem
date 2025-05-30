@@ -25,6 +25,9 @@ Tüm dosyalar şu formatta yapılandırılmıştır:
 - **Dynamic Programming (DP):** Küçük ve orta boy veri setlerinde optimal çözüm sağlar.
 - Büyük veri setleri için bellek dostu çözümler uygulanmıştır.
 
+## 📊 Sonuçlar
+
+Tüm veri setleri çözülmüş ve sonuçlar `knapsack_summary.xlsx` adlı Excel dosyasına aşağıdaki formatta eklenmiştir:
 
 
 
