@@ -20,4 +20,11 @@ Tüm dosyalar şu formatta yapılandırılmıştır:
 ...
 ```
 
+## 🚀 Kullanılan Yöntem
+
+- **Dynamic Programming (DP):** Küçük ve orta boy veri setlerinde optimal çözüm sağlar.
+- Büyük veri setleri için bellek dostu çözümler uygulanmıştır.
+
+
+
 
