@@ -11,4 +11,13 @@ Proje kapsamında aşağıdaki veri setleri kullanılmıştır:
 - `ks_1000_0.txt`
 - `ks_10000_0.txt`
 
-  
+Tüm dosyalar şu formatta yapılandırılmıştır:
+
+```
+<item_count> <capacity>
+<value_1> <weight_1>
+<value_2> <weight_2>
+...
+```
+
+
