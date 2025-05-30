@@ -29,5 +29,14 @@ Tüm dosyalar şu formatta yapılandırılmıştır:
 
 Tüm veri setleri çözülmüş ve sonuçlar `knapsack_summary.xlsx` adlı Excel dosyasına aşağıdaki formatta eklenmiştir:
 
+## 🧪 Nasıl Çalıştırılır?
 
+1. Gerekli kütüphaneleri kur:
+```bash
+pip install openpyxl
+```
 
+2. Notebook'u aç ve çalıştır:
+```bash
+jupyter notebook knapsack_solver.ipynb
+```
